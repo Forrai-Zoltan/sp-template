@@ -1,7 +1,7 @@
 # Screenplay Title
 
-> [!IMPORTANT] Slugline
->  Crucial information necessary for users to succeed.
+> [!IMPORTANT] 
+> Slugline
 
 ## 🧭 Legend
 
