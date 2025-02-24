@@ -15,7 +15,7 @@
 
 ### 📂 wiki/
 - A GitHub wiki for the story.
-- See [story-bible](wiki/story-bible.md) for details
+- See [story-bible](story-bible.md) for details
 
 ### README
 - Provide a short description of the project.
